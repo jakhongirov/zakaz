@@ -1,0 +1,58 @@
+.home__additional {
+   background-color: rgba(37, 104, 158, 1);   
+}
+.home__additional .container {
+   padding: 84px 20px;
+}
+.additional__list {
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   
+   margin: 0;
+   padding: 0;
+}
+.additional__item {
+   width: 200px;
+}
+.additional__item:nth-child(1) {
+   background-image: url('../../images/landslides.png');
+   background-repeat: no-repeat;
+   
+}
+.additional__item:nth-child(2) {
+   background-image: url('../../images/funnels.png');
+   background-repeat: no-repeat;
+   
+   
+}
+.additional__item:nth-child(3) {
+   background-image: url('../../images/collapses.png');
+   background-repeat: no-repeat;
+   
+}
+.additional__item:nth-child(4) {
+   background-image: url('../../images/avalanche.png');
+   background-repeat: no-repeat;
+   ;
+}
+.addition__item__info {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   padding-top: 155px;
+}
+.count {
+   display: inline-block;
+   margin-bottom: 4px;
+}
+.count,
+.discription {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 32px;
+   line-height: 38px;
+   text-align: center;
+   color: #FFFFFF;
+}
