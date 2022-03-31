@@ -7,7 +7,9 @@
   white-space: nowrap;
   width: 1px;
 }
-
+* {
+  box-sizing: border-box;
+}
 html {
   height: 100%;
   box-sizing: border-box;
@@ -42,7 +44,7 @@ ul {
 
 body {
   height: 100%;
-  font-family: "Mazzard", sans-serif;
+  font-family: 'Roboto Condensed';
   font-size: 26px;
   line-height: 1.5;
   margin: 0;
@@ -54,8 +56,10 @@ img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  object-fit: cover;
 }
 
 main {
   flex-grow: 1;
 }
+
