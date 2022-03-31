@@ -12,35 +12,35 @@ import img2 from '../../Assets/images/news2.png'
 const arr = [
     {
         id: 1,
-        title: "Xavfli gewwwwwologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xavfli geologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumida yuqori tayyorgarlik",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz",
         time: 1553299200
     },
     {
         id: 2,
-        title: "Xavfli geoloefefrfrgik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xalqaro to‘lov tizimlari Rossiyadan chiqib ketishi o‘zbekistonlik migrantlarning pul o‘tkazmalariga ta’sir qiladimi? ",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz",
         time: 1553299200
     },
     {
         id: 3,
-        title: "Xavfli geologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xalqaro to‘lov tizimlari Rossiyadan chiqib ketishi o‘zbekistonlik migrantlarning pul o‘tkazmalariga ta’sir qiladimi?",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz",
         time: 1553299200
     },
     {
         id: 4,
-        title: "Xavfli geologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xalqaro to‘lov tizimlari Rossiyadan chiqib ketishi o‘zbekistonlik migrantlarning pul o‘tkazmalariga ta’sir qiladimi?",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz",
         time: 1553299200
     },
     {
         id: 5,
-        title: "Xavfli geologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xalqaro to‘lov tizimlari Rossiyadan chiqib ketishi o‘zbekistonlik migrantlarning pul o‘tkazmalariga ta’sir qiladimi?",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz",
         time: 1553299200

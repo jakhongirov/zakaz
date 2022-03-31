@@ -11,13 +11,13 @@ import { Autoplay, Pagination, EffectFade } from "swiper";
 const arr = [
     {
         id: 1,
-        title: "Xavfli gewwwwwologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xavfli geologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz"
     },
     {
         id: 2,
-        title: "Xavfli geoloefefrfrgik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
+        title: "Xavfli geologik jarayonlarni kuzatish davlat xizmati! 2021 yil qish-bahor mavsumiga tayyorgarlik",
         desc: "Oʼzbekiston Respublikasi Xavfli geologik jarayonlarni kuzatish Davlat xizmati Oʼzbekiston Respublikasi Prezidentining 2007 yil 19 fevraldagi PQ-585 sonli qarori va Vazirlar Mahkamasining 2017 yil 13 noyabrdag...",
         link: "https://kun.uz"
     },

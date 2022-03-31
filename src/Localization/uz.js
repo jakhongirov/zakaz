@@ -1,3 +1,4 @@
+import header from "./Components/uz/header";
 import photogallery from "./Components/uz/photogallery";
 import links from "./Components/uz/links";
 import homeNews from "./Components/uz/home-news";
